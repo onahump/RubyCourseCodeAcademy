@@ -1,2 +1,3 @@
-print "Hello!" #One Line 
-puts "Hello!"  #It's like println 
+puts "Hello!"  #It's like println
+print "Hello!" #One Line
+
