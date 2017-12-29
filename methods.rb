@@ -10,3 +10,11 @@ puts "Oswaldo".reverse
 puts "Oswaldo".upcase   
 puts "Oswaldo".downcase  
 =end
+
+name = "Oswaldo"
+
+puts name.downcase
+puts name.reverse
+puts name.upcase
+
+puts name.downcase.reverse.upcase
