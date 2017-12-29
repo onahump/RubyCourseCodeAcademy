@@ -1,0 +1,1 @@
+puts "Oswaldo".length    #dice el tamaño 
